@@ -1,0 +1,6 @@
+caer==2.0.8
+mypy==1.0.0
+mypy-extensions==1.0.0
+numpy==1.24.2
+opencv-contrib-python==4.7.0.68
+typing_extensions==4.4.0
